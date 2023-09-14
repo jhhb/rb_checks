@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary = "Ruby behavior + sanity checks plus doc links"
   spec.description = ""
   spec.homepage = "https://github.com/jhhb/rb_checks/"
-  spec.license = "AGPL-3.0-or-later"
+  spec.license = "MIT"
   spec.required_ruby_version = ">= 2.7.7"
 
   # spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
